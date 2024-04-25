@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/PeterCodyLeon/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/PeterCodyLeon/post-install-config)
-  - [Configuring  Active Directory within AWS ](https://github.com/PeterCodyLeon/configure-ad)
+  - [osTicket: Ticket Lifecycle Examples ](https://github.com/PeterCodyLeon/configure-ad)
  
 
 <h2>🤳Connect with me:</h2>
