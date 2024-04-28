@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples ](https://github.com/PeterCodyLeon/configure-ad)
 
 <b>Amazon Web Services (AWS)</b>
-  - [Configuring On-premises Active Directory within AWS VMs](https://github.com/joshmadakorcc/configure-ad)  
+  - [Configuring On-premises Active Directory within AWS VMs](https://github.com/PeterCodyLeon/Configuring-On-premises-Active-Directory-within-AWS-VMs)  
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/PeterCodyLeon/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Creating virtual machines in AWS](https://github.com/PeterCodyLeon/Creating-virtual-machines-in-AWS)
 
