@@ -15,4 +15,4 @@
 <h2>🤳Connect with me:</h2>
 
 
-[linkedin]: [https://linkedin.com/in/Josh](https://www.linkedin.com/in/peter-leon-b1755b2b8/)https://www.linkedin.com/in/peter-leon-b1755b2b8/
+[linkedin]: https://www.linkedin.com/in/peter-leon-920933289/
